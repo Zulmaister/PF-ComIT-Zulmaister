@@ -1,0 +1,64 @@
+.post {
+  margin-bottom: 2rem;
+  box-shadow: 0px 5px 11px 1px rgba(0, 0, 0, 0.4);
+  background-color: white;
+}
+.post .post-head {
+  padding: 1rem;
+}
+.post .post-head img {
+  height: 3rem;
+  width: 3rem;
+  object-fit: cover;
+}
+.post .post-head .info {
+  display: inline-block;
+  vertical-align: top;
+}
+.post .post-head .info > span {
+  display: block;
+  margin-left: 0.5rem;
+  line-height: 1.5rem;
+  color: #666666;
+}
+.post .post-head .info > span a {
+  margin-right: 0.25rem;
+  color: #3B5998;
+  text-decoration: none;
+  font-weight: bold;
+}
+.post .post-content p {
+  margin-left: 1rem;
+  margin-right: 1rem;
+  margin-bottom: 1rem;
+  line-height: 1.2rem;
+  color: #333333;
+}
+.post .post-content img {
+  width: 100%;
+  vertical-align: bottom;
+  cursor: pointer;
+}
+.post .post-foot .social {
+  display: flex;
+  padding: 1rem;
+  align-items: center;
+}
+.post .post-foot .social .fa {
+  margin-right: 0.5rem;
+  color: #333333;
+}
+.post .post-foot .social span {
+  margin-right: 2rem;
+  color: #333333;
+  font-weight: bold;
+  cursor: pointer;
+}
+.post .post-foot .comment input {
+  width: calc(100% - 2rem);
+  height: 2rem;
+  margin: 1rem;
+  border: none;
+  border-bottom: 1px solid #999999;
+  outline: none;
+}
