@@ -104,7 +104,6 @@ INSERT INTO `usuarios` (`id`, `nombre`, `email`, `password`, `fecha_registro`, `
 (10, 'Milagro', 'mi@gmail.com', '$2y$10$frHjYTfYXd1oGkDY1VCqKeRjpxvCdlK8WiQiTTSdwdIXjU6ald0/y', '2018-07-14 01:55:36', 0),
 (11, 'sdadefe', 'da@gmail.com', '$2y$10$5d5s/TxgkRRd5QDcpNArc.gDMlXTXiyMPJ4xt/0S7lx.auAChU8yC', '2018-07-14 15:02:26', 0),
 (12, 'alejandro', 'ale@yahoo.com.ar', '$2y$10$xMSe7U92zOipCXMmOpddvuprSNPy3uxeA19imwsCgm5ZYamzz8Uwa', '2018-07-14 15:15:02', 0),
-(13, 'basura', 'bas@gmail.com', '$2y$10$uXzaPVn5V0wChMQgfApLeeRy/MgRIWpWlu/XA0FDi0cmP/ONrlAVy', '2018-07-14 15:18:44', 0),
 (14, 'Zulmas', 'mas@gmail.com', '$2y$10$3nNOTHsAVZY1bi30wj/JOuQKsrFq29Fdhf204Tv0ElDQ4VHkBpGmO', '2018-07-14 21:10:29', 0),
 (15, 'Catalina', 'catalina@gmail.com', '$2y$10$8OnDputcNS2Y29kRLfc3/uF5Bjw5r1lGuSgYgnt2W/81sIvO16MhS', '2018-07-14 21:26:15', 0),
 (16, '1234567', '1234567@gmail.com', '$2y$10$48nJ0P3QbCCIWf2Vyg7.Du3VPwuvs79XLgaHt.ioh7x2a7rwFXSF.', '2018-07-14 22:15:22', 0),
