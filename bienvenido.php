@@ -11,7 +11,7 @@
 	<h1>¡Bienvenido!<br>
 	A La mejor red social Cerook, comparte experiencia con tus amigos y enterate de las ultimas noticias y mucho más...</h1>
 	
-	<a href="login.php">¿A qué estás esperando</a>
+	<a href="login.php">¿Qué estás esperando?</a>
 
 </body>
 </html>
